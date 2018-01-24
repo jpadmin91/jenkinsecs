@@ -1,1 +1,1 @@
-java -jar slave.jar -jnlpUrl http://localhost:8080/computer/ecsinstanceslave/slave-agent.jnlp -secret 9285ff1d7259cb74f08ee75e062b98b83eed3289dba8d625c0e9502afad5dc07
+java -jar slave.jar -jnlpUrl http://172.27.59.242:8080/computer/ecsinstanceslave/slave-agent.jnlp -secret 9285ff1d7259cb74f08ee75e062b98b83eed3289dba8d625c0e9502afad5dc07
